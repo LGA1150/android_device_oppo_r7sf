@@ -18,7 +18,7 @@
 set -e
 
 export BITS=64
-export DEVICE=r7sf
+export DEVICE=r7sm
 export DEVICE_COMMON=msm8939-common
 export VENDOR=oppo
 
